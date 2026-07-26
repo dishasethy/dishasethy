@@ -1,8 +1,8 @@
-<!-- Header Banner -->
+<!-- Header Banner
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Disha+Sethi+👋;Software+Developer;Building+with+Next.js+%2B+TypeScript" alt="Typing SVG" />
 </div>
-
+ -->
 <p align="center">
   <a href="https://linkedin.com/in/dishasethy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:disha.sethi@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
