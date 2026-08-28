@@ -22,7 +22,7 @@
       <ul>
         <li>🎓 Studying at <b>NIT Rourkela</b></li>
         <li>🔭 Working on <b>Full-Stack Web Apps &amp; GenAI Integrations</b></li>
-        <li>🌱 Learning <b>LangChain, AI-integrated Systems</b></li>
+        <li> </li>
         <li>👯 Open to collaborate on <b>Next.js / TypeScript</b> projects</li>
         <li>💬 Ask me about <b>Next.js, TypeScript, React, Node.js</b></li>
       </ul>
